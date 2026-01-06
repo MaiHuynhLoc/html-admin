@@ -83,6 +83,5 @@
   },
   "resolutions": {
     "autoprefixer": "10.4.5"
-  }, 
-  "packageManager": "yarn@1.22.19"
+  }
 }
